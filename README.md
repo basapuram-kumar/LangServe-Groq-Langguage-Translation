@@ -47,3 +47,15 @@ INFO:     Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
 http://localhost:8000/docs
 
 Play it out on /chain POST calls for sample data on UI or from POSTMAN tool.
+
+### Example from Potman from 
+
+<img width="672" height="831" alt="Screenshot 2025-12-27 at 16 45 59" src="https://github.com/user-attachments/assets/44e74098-7e74-4f5a-a4e9-0b3181159138" />
+
+### From UI.
+<img width="1784" height="1374" alt="Screenshot 2025-12-27 at 16 48 17" src="https://github.com/user-attachments/assets/1516f498-17ba-4040-b0fa-c7a1611f0e6e" />
+
+And
+<img width="1742" height="1378" alt="Screenshot 2025-12-27 at 16 49 02" src="https://github.com/user-attachments/assets/3c6e21f8-8a48-4b4b-a216-5d2980db1e01" />
+
+
